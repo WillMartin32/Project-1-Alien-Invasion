@@ -9,4 +9,4 @@
 ## the player's ship or reaches the bottom of the screen, the player
 ## loses the ship. If the player loses three ships, the game ends.
 
-## pg. 241 Adjusting the Ship's Speed
+## pg. 256 Starte of Ch. 13
