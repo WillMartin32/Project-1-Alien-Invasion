@@ -9,4 +9,4 @@
 ## the player's ship or reaches the bottom of the screen, the player
 ## loses the ship. If the player loses three ships, the game ends.
 
-## pg. 265 Making the Fleet Move
+## pg. 280 - Ch. 14 Scoring
